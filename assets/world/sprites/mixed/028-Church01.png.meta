@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: f0b9a0013cdc09745aa86b68ac16da78
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 028-Church01_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+    - name: 028-Church01_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+    - name: 028-Church01_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+    - name: 028-Church01_14
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1024
+        width: 28
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+    - name: 028-Church01_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1024
+        width: 32
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+    - name: 028-Church01_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+    - name: 028-Church01_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 32
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+    - name: 028-Church01_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 32
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+    - name: 028-Church01_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 32
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+    - name: 028-Church01_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 32
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+    - name: 028-Church01_108
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 609
+        width: 57
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+    - name: 028-Church01_126
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 548
+        width: 32
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+    - name: 028-Church01_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+    - name: 028-Church01_216
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 96
+        height: 191
+      alignment: 1
+      pivot: {x: 0, y: 1}
+  spritePackingTag: 
+  userData: 

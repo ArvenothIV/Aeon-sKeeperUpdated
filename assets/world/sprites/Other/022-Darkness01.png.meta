@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 3fa9d2b94a6126e469bb154862a16760
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 022-Darkness01_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 424
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 022-Darkness01_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 426
+        width: 110
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 022-Darkness01_2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 424
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 022-Darkness01_3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 448
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 022-Darkness01_4
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 447
+        width: 111
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 022-Darkness01_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 258
+        width: 102
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 022-Darkness01_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 181
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 022-Darkness01_7
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 195
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 022-Darkness01_8
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 218
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 022-Darkness01_9
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 234
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 022-Darkness01_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 9
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 022-Darkness01_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 26
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 022-Darkness01_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 47
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 022-Darkness01_13
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 36
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

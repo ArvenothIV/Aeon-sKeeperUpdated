@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: e3759cb7409a7004682a045a3fec9243
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 156-Animal06_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 242
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 156-Animal06_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 241
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 156-Animal06_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 242
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 156-Animal06_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 241
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 156-Animal06_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 164
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 156-Animal06_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 164
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 156-Animal06_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 164
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 156-Animal06_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 164
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 156-Animal06_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 84
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 156-Animal06_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 84
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 156-Animal06_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 84
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 156-Animal06_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 84
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 156-Animal06_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3
+        width: 27
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 156-Animal06_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 156-Animal06_14
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 3
+        width: 27
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: 156-Animal06_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

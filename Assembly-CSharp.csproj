@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{D1744E2B-CB13-B3A5-5224-1217348E561A}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_GENERICS;ENABLE_SUBSTANCE;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;UNITY_4_3_4;UNITY_4_3;UNITY_64;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="assets\Credits\Credits.cs" />
+     <Compile Include="assets\SelectionScreen\CharacterSelection.cs" />
+     <Compile Include="assets\global\GlobalScripts\Armor.cs" />
+     <Compile Include="assets\global\GlobalScripts\Attack.cs" />
+     <Compile Include="assets\global\GlobalScripts\Bow.cs" />
+     <Compile Include="assets\global\GlobalScripts\CharacterClasses\Attribute.cs" />
+     <Compile Include="assets\global\GlobalScripts\CharacterClasses\BaseCharacter.cs" />
+     <Compile Include="assets\global\GlobalScripts\CharacterClasses\BaseStat.cs" />
+     <Compile Include="assets\global\GlobalScripts\CharacterClasses\CharStats.cs" />
+     <Compile Include="assets\global\GlobalScripts\CharacterClasses\ModifiedStat.cs" />
+     <Compile Include="assets\global\GlobalScripts\CharacterClasses\Vital.cs" />
+     <Compile Include="assets\global\GlobalScripts\Enemy.cs" />
+     <Compile Include="assets\global\GlobalScripts\EnemyDrops.cs" />
+     <Compile Include="assets\global\GlobalScripts\EnemyHealth.cs" />
+     <Compile Include="assets\global\GlobalScripts\GameSettings.cs" />
+     <Compile Include="assets\global\GlobalScripts\Generation.cs" />
+     <Compile Include="assets\global\GlobalScripts\Helm.cs" />
+     <Compile Include="assets\global\GlobalScripts\MeleeEnemyAI.cs" />
+     <Compile Include="assets\global\GlobalScripts\Pickup.cs" />
+     <Compile Include="assets\global\GlobalScripts\PlayerHealth.cs" />
+     <Compile Include="assets\global\GlobalScripts\PlayerMana.cs" />
+     <Compile Include="assets\global\GlobalScripts\QuestBar.cs" />
+     <Compile Include="assets\global\GlobalScripts\Staff.cs" />
+     <Compile Include="assets\global\GlobalScripts\Sword.cs" />
+     <Compile Include="assets\global\GlobalScripts\TiledMap.cs" />
+     <Compile Include="assets\global\GlobalScripts\WorldButtonInteraction.cs" />
+     <Compile Include="assets\global\GlobalScripts\animalAI.cs" />
+     <Compile Include="assets\global\GlobalScripts\pauseMenu.cs" />
+     <Compile Include="assets\global\GlobalScripts\playerController.cs" />
+     <Compile Include="assets\global\GlobalScripts\playerGold.cs" />
+     <Compile Include="assets\mainmenu\OptionsMenu\returnButton.cs" />
+     <Compile Include="assets\mainmenu\Scripts\bob.cs" />
+     <Compile Include="assets\mainmenu\Scripts\hover.cs" />
+     <Compile Include="assets\mainmenu\Scripts\loadGameButton.cs" />
+     <Compile Include="assets\mainmenu\Scripts\newGameButton.cs" />
+     <Compile Include="assets\mainmenu\Scripts\optionsButton.cs" />
+     <Compile Include="assets\mainmenu\Scripts\quitButton.cs" />
+     <Compile Include="assets\mainmenu\Scripts\scrolling.cs" />
+     <Compile Include="assets\simpleparticlepack\Scripts\ParticleTester.cs" />
+     <Compile Include="assets\world\scenes\Cave4\Scripts\ProgressionInteractionCave4.cs" />
+     <Compile Include="assets\world\scenes\CavePuzzle\Scripts\ProgressionInteractionCavePuzzle.cs" />
+     <Compile Include="assets\world\scenes\CavePuzzle\Scripts\tryPuzzle.cs" />
+     <Compile Include="assets\world\scenes\Dungeon of Trials\Scripts\ProgressionInteractionDungeon.cs" />
+     <Compile Include="assets\world\scenes\Home2\Scripts\ProgressInteractionHome2.cs" />
+     <Compile Include="assets\world\scenes\Outsidehome3\Scripts\Dialogue1.cs" />
+     <Compile Include="assets\world\scenes\Outsidehome3\Scripts\Dialogue2.cs" />
+     <Compile Include="assets\world\scenes\Outsidehome3\Scripts\ProgressInteractionOutsideHome3.cs" />
+     <Compile Include="assets\world\scenes\Tutorial\Scripts\ProgressInteractionTut1.cs" />
+     <Compile Include="assets\world\scenes\bossscene\Scripts\BossAI.cs" />
+     <Compile Include="assets\world\scenes\bossscene\Scripts\DarkAttack.cs" />
+     <Compile Include="assets\world\scenes\bossscene\Scripts\DialgueBoss.cs" />
+     <Compile Include="assets\world\scenes\bossscene\Scripts\DialogueBoss2.cs" />
+     <Compile Include="assets\world\scenes\bossscene\Scripts\ProgIntBoss.cs" />
+     <Compile Include="assets\world\scenes\bunnyisle\Scripts\ProgressInteractionBunnyIsle.cs" />
+     <Compile Include="assets\world\scenes\bunnyisle\Scripts\overviewEast.cs" />
+     <Compile Include="assets\world\scenes\bunnyisle\Scripts\overviewNorth.cs" />
+     <Compile Include="assets\world\scenes\bunnyisle\Scripts\overviewWest.cs" />
+     <Compile Include="assets\world\scenes\desert\Scripts\DialogueAeon.cs" />
+     <Compile Include="assets\world\scenes\desert\Scripts\DialogueBoyD.cs" />
+     <Compile Include="assets\world\scenes\desert\Scripts\Levers.cs" />
+     <Compile Include="assets\world\scenes\desert\Scripts\ProgressionInteractionDesert.cs" />
+     <Compile Include="assets\world\scenes\desertcavern\Scripts\ProgIntDesCav.cs" />
+     <Compile Include="assets\world\scenes\house5\Scripts\ProgressionInteractionHouse5.cs" />
+     <Compile Include="assets\world\scenes\makeplayer\Scripts\AssignClass.cs" />
+     <Compile Include="assets\world\scenes\prison\Scripts\DialogueJailer.cs" />
+     <Compile Include="assets\world\scenes\prison\Scripts\DialogueJailer2.cs" />
+     <Compile Include="assets\world\scenes\prison\Scripts\DialoguePrisoner.cs" />
+     <Compile Include="assets\world\scenes\prison\Scripts\ProgressionInteractionPrison.cs" />
+     <Compile Include="assets\world\scenes\tavern\Scripts\DialogueStoreKeeper.cs" />
+     <Compile Include="assets\world\scenes\tavern\Scripts\ProgressionInteractionTavern.cs" />
+     <Compile Include="assets\world\scenes\town\Scripts\DialogueBoy.cs" />
+     <Compile Include="assets\world\scenes\town\Scripts\ProgressionInteractionTown.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{1A645DA3-38B5-3FB0-408C-26C8EC8036EE}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
+      <Project>{5FBF3E9D-A505-3C19-0058-3D990637A8D9}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

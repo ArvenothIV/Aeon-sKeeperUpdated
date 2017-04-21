@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e596cab8cbdf594b88deb99023bdced
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cc: {instanceID: 0}
+  - Attack: {instanceID: 0}
+  - BowAttack: {instanceID: 0}
+  - StaffAttack: {instanceID: 0}
+  - audio: {instanceID: 0}
+  - slash: {instanceID: 0}
+  - inventory: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
